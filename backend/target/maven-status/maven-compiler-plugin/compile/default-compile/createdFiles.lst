@@ -1,0 +1,5 @@
+com/tsinjo/portfolio/PortfolioApplication.class
+com/tsinjo/portfolio/controller/ContactController.class
+com/tsinjo/portfolio/model/Contact.class
+com/tsinjo/portfolio/service/ContactService.class
+com/tsinjo/portfolio/repository/ContactRepository.class
