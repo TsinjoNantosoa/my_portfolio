@@ -141,18 +141,18 @@ const Resume: React.FC = () => {
   ];
 
   const certifications = [
-    { title: "Data Engineer Associate", img: "../../../public/certificate/data_engineer_associate.png" },
-    { title: "Data Analyst Associate", img: "../../../public/certificate/data_analyst_associate.png" },
-    { title: "Python Data Associate", img: "../../../public/certificate/python_data_associate.png" },
-    { title: "SQL Associate", img: "../../../public/certificate/sql_associate.png" },
-    { title: "AWS Cloud Practitioner (CLF-C02)", img: "../../../public/certificate/aws_cloud_practitioner.png" },
-    { title: "Data Engineer Career Track", img: "../../../public/certificate/data_engineer_track.png" },
-    { title: "Data Analyst in Python", img: "../../../public/certificate/data_analyst_in_python.png" },
-    { title: "Data Analyst in Power BI", img: "../../../public/certificate/data_analyst_power_bi.png" },
-    { title: "Professional Data Engineer in Python", img: "../../../public/certificate/professional_data_engeener.png" },
-    { title: "Data Engineer in Python", img: "../../../public/certificate/Data_engeener_in_python.png" },
-    { title: "Power BI Fundamentals (Skill Track)", img: "../../../public/certificate/power_bi_fondamental.png" },
-    { title: "Snowflake Data Engineer Associate", img: "../../../public/certificate/data_engeener_in_snowflake.png" },
+    { title: "Data Engineer Associate", img: "../../../certificate/data_engineer_associate.png" },
+    { title: "Data Analyst Associate", img: "../../../certificate/data_analyst_associate.png" },
+    { title: "Python Data Associate", img: "../../../certificate/python_data_associate.png" },
+    { title: "SQL Associate", img: "../../../certificate/sql_associate.png" },
+    { title: "AWS Cloud Practitioner (CLF-C02)", img: "../../../certificate/aws_cloud_practitioner.png" },
+    { title: "Data Engineer Career Track", img: "../../../certificate/data_engineer_track.png" },
+    { title: "Data Analyst in Python", img: "../../../certificate/data_analyst_in_python.png" },
+    { title: "Data Analyst in Power BI", img: "../../../certificate/data_analyst_power_bi.png" },
+    { title: "Professional Data Engineer in Python", img: "../../../certificate/professional_data_engeener.png" },
+    { title: "Data Engineer in Python", img: "../../../certificate/Data_engeener_in_python.png" },
+    { title: "Power BI Fundamentals (Skill Track)", img: "../../../certificate/power_bi_fondamental.png" },
+    { title: "Snowflake Data Engineer Associate", img: "../../../certificate/data_engeener_in_snowflake.png" },
   ];
 
   const languages = [

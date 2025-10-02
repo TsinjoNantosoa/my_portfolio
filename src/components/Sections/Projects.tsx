@@ -14,7 +14,7 @@ const Projects: React.FC = () => {
     description:
       "Simulation de flux IoT → Traitement temps réel avec Spark Structured Streaming → Stockage S3 (Parquet). Déploiement conteneurisé.",
     technologies: ["Kafka", "Spark", "AWS S3", "Docker"],
-    imageUrl: "/public/portfolio-uploads/iot-pipeline.png",
+    imageUrl: "/portfolio-uploads/iot-pipeline.png",
     githubLink: "https://github.com/TsinjoNantosoa/real-time-data-pipeline-kafka-spark",
     demoLink: "https://demo.iot-pipeline.com",
     isHighlighted: true,
@@ -25,7 +25,7 @@ const Projects: React.FC = () => {
     description:
       "Extraction API → Producteur Kafka Python → Orchestration Airflow → PostgreSQL. Déploiement Docker Compose.",
     technologies: ["Airflow", "PostgreSQL", "Kafka", "Docker"],
-    imageUrl: "/public/portfolio-uploads/etl-pipeline.png",
+    imageUrl: "/portfolio-uploads/etl-pipeline.png",
     githubLink: "https://github.com/TsinjoNantosoa/real-time-data-pipeline-kafka-spark",
     demoLink: "https://demo.etl-airflow.com",
   },
@@ -35,7 +35,7 @@ const Projects: React.FC = () => {
     description:
       "Extraction API (Open Notify) → TaskFlow API (Airflow 2.0) pour une automatisation évolutive.",
     technologies: ["Airflow", "Python", "API", "TaskFlow"],
-    imageUrl: "/public/portfolio-uploads/weather-etl.png",
+    imageUrl: "/portfolio-uploads/weather-etl.png",
     githubLink: "https://github.com/TsinjoNantosoa/weather_etl",
     demoLink: "https://demo.weather-etl.com",
   },
@@ -45,7 +45,7 @@ const Projects: React.FC = () => {
     description:
       "Classification & régression avec Scikit-learn : prétraitement, tuning, évaluation de modèles.",
     technologies: ["Scikit-learn", "Python", "ML"],
-    imageUrl: "/public/portfolio-uploads/ml-projects.png",
+    imageUrl: "/portfolio-uploads/ml-projects.png",
     githubLink: "https://github.com/TsinjoNantosoa/sales-prediction-app",
     demoLink: "https://demo.ml-projects.com",
   },
@@ -55,7 +55,7 @@ const Projects: React.FC = () => {
     description:
       "Exemples : Retail Data Pipeline, Cleaning an Orders Dataset with PySpark, Motorcycle Sales Analysis.",
     technologies: ["PySpark", "SQL", "DataCamp"],
-    imageUrl: "/public/portfolio-uploads/datacamp-projects.png",
+    imageUrl: "/portfolio-uploads/datacamp-projects.png",
     githubLink: "https://www.datacamp.com/portfolio/sandaniainatsinjonantosoa",
     demoLink: "https://demo.datacamp-projects.com",
   },
