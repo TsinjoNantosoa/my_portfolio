@@ -70,7 +70,7 @@ const Hero: React.FC = () => {
 <div className="flex gap-4">
   {/* Ouvrir dans navigateur */}
   <a
-    href="../../../public/CV/CV_Tsinjo_Nantosoa.pdf"
+    href="../../../CV/CV_Tsinjo_Nantosoa.pdf"
     target="_blank"
     rel="noopener noreferrer"
     className="inline-flex items-center gap-2 rounded-lg bg-neon px-6 py-3 font-semibold text-black transition hover:bg-neon/80"
@@ -81,7 +81,7 @@ const Hero: React.FC = () => {
 
   {/* Télécharger directement */}
   <a
-    href="../../../public/CV/CV_Tsinjo_Nantosoa.pdf"
+    href="../../../CV/CV_Tsinjo_Nantosoa.pdf"
     download
     className="inline-flex items-center gap-2 rounded-lg border border-neon px-6 py-3 font-semibold text-neon transition hover:bg-neon/20"
   >
